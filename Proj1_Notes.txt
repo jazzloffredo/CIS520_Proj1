@@ -1,0 +1,9 @@
+*** This is a place to log all changes made to any file ***
+
+Format of additions should be as follows (minus the '/' characters):
+
+/////////////////////////////////////////
+Jazz - 01/31/2020
+Modified timer.c to include new function
+called thread_sleep(void)...
+////////////////////////////////////////
